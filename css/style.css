@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Montserrat-Black";
+  src: url(../assets/fonts/Montserrat-Black.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Space-Mono-Regular";
+  src: url(../assets/fonts/SpaceMono-Regular.ttf) format("truetype");
+}
+.montserrat {
+  font-family: "Montserrat-Black", sans-serif;
+}
+.space-mono {
+  font-family: "Space-Mono-Regular", monospace;
+}
